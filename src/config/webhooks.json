@@ -1,0 +1,62 @@
+{
+    "startLogs": {
+        "id": "1087038011247702096",
+        "token": ""
+    },
+    "shardLogs": {
+        "id": "1087038011247702096",
+        "token": ""
+    },
+    "errorLogs": {
+        "id": "",
+        "token": ""
+    },
+    "dmLogs": {
+        "id": "",
+        "token": ""
+    },
+    "voiceLogs": {
+        "id": "",
+        "token": ""
+    },
+    "serverLogs": {
+        "id": "",
+        "token": ""
+    },
+    "serverLogs2": {
+        "id": "",
+        "token": ""
+    },
+    "commandLogs": {
+        "id": "",
+        "token": ""
+    },
+    "consoleLogs": {
+        "id": "",
+        "token": ""
+    },
+    "warnLogs": {
+        "id": "",
+        "token": ""
+    },
+    "voiceErrorLogs": {
+        "id": "",
+        "token": ""
+    },
+    "creditLogs": {
+        "id": "",
+        "token": ""
+    },
+    "evalLogs": {
+        "id": "",
+        "token": ""
+    },
+    "interactionLogs": {
+        "id": "",
+        "token": ""
+    },
+    "bugReportLogs": {
+        "id": "",
+        "token": ""
+    }
+}
